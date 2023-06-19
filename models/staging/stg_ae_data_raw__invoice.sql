@@ -1,0 +1,1 @@
+SELECT * FROM {{source('ae_data_raw','invoice')}}
