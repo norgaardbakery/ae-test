@@ -1,0 +1,7 @@
+version: 2
+
+sources:
+  - name: ae_data_raw
+    database: ae-hiring-challenge-390313
+    tables:
+      - name: invoice
